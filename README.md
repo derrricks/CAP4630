@@ -20,7 +20,7 @@ Test your program with the environment shown in Fig. 3.31 first.
     - https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree
     - http://msl.cs.uiuc.edu/~lavalle/papers/LavKuf01.pdf
 
-  - Environment 1 Samples:
+Environment 1 Samples:
 <img width="998" alt="RRT Sample Output Enviroment 1" src="https://user-images.githubusercontent.com/34103060/116826483-363c5380-ab62-11eb-8f99-604cbdbdac68.png">
 
 

@@ -1,4 +1,4 @@
-# CAP4630 - Intro to Artificial Intelligence
+CAP4630 - Intro to Artificial Intelligence
 
 # Assignment 1: 
 Find the shortest path (using A* algorithm) between two points on a plane that has convex polygonal obstacles as shown in Figure 3.31

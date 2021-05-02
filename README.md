@@ -15,7 +15,9 @@ RRT Visual: AI Final Project
   - Implementation of Rapidly-Exploring Random Tree Algorithm
   - Featues live visualization of algoirthm
   - Featues random start and goal node with three different environments to test with
-
+  - Sources: 
+    - https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree
+    - http://msl.cs.uiuc.edu/~lavalle/papers/LavKuf01.pdf
 
 
 Overall Improvements to Consider: 

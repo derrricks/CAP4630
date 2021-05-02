@@ -11,7 +11,7 @@ Test your program with the environment shown in Fig. 3.31 first.
 
   - Algorithm Source: https://escholarship.org/content/qt4ct236k1/qt4ct236k1.pdf
   
-RRT Visual: AI Final Project
+RRT Visual: (AI Final Project)
   - Implementation of Rapidly-Exploring Random Tree Algorithm
   - Featues live visualization of algoirthm
   - Featues random start and goal node with three different environments to test with

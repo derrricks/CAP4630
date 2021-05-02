@@ -9,9 +9,16 @@ Assignment 1: Find the shortest path (using A* algorithm) between two points on 
 Assignment 2: Given an environment with polygonal obstacles, a maximum budget C (i.e., path length), and {S, G}, your goal would be to find the shortest path between S and G such that the path cost is less than C using Algorithm 1 in [Stern 2014].
 Test your program with the environment shown in Fig. 3.31 first.
 
-Algorithm Source: https://escholarship.org/content/qt4ct236k1/qt4ct236k1.pdf
+  - Algorithm Source: https://escholarship.org/content/qt4ct236k1/qt4ct236k1.pdf
   
-Improvements to Consider: 
+RRT Visual: AI Final Project
+  - Implementation of Rapidly-Exploring Random Tree Algorithm
+  - Featues live visualization of algoirthm
+  - Featues random start and goal node with three different environments to test with
+
+
+
+Overall Improvements to Consider: 
   - add method to find neighboring nodes without hardcoding (Assignment 1 and 2)
   - add live visualization (Assignment 1 and 2)
   - budget issue (Assignment 2)

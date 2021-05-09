@@ -1,12 +1,12 @@
 CAP4630 - Projects for Intro to Artificial Intelligence
 
-# Assignment 1: 
+# Assignment 1 - A* Algorithm: 
 Find the shortest path (using A* algorithm) between two points on a plane that has convex polygonal obstacles as shown in Figure 3.31
 
 <img width="556" alt="AI Assignment 1 Problem" src="https://user-images.githubusercontent.com/34103060/116801263-25de9700-aad6-11eb-975b-ea0902356b7a.png">
 
 
-# Assignment 2: 
+# Assignment 2 - Potential Search Algorithm: 
 Given an environment with polygonal obstacles, a maximum budget C (i.e., path length), and {S, G}, your goal would be to find the shortest path between S and G such that the path cost is less than C using Algorithm 1 in [Stern 2014].
 Test your program with the environment shown in Fig. 3.31 first.
 
